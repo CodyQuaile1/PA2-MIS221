@@ -1,0 +1,14 @@
+/Users/cody/Desktop/MIS221/PA2/obj/Debug/net7.0/PA2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cody/Desktop/MIS221/PA2/obj/Debug/net7.0/PA2.AssemblyInfoInputs.cache
+/Users/cody/Desktop/MIS221/PA2/obj/Debug/net7.0/PA2.AssemblyInfo.cs
+/Users/cody/Desktop/MIS221/PA2/obj/Debug/net7.0/PA2.csproj.CoreCompileInputs.cache
+/Users/cody/Desktop/MIS221/PA2/bin/Debug/net7.0/PA2
+/Users/cody/Desktop/MIS221/PA2/bin/Debug/net7.0/PA2.deps.json
+/Users/cody/Desktop/MIS221/PA2/bin/Debug/net7.0/PA2.runtimeconfig.json
+/Users/cody/Desktop/MIS221/PA2/bin/Debug/net7.0/PA2.dll
+/Users/cody/Desktop/MIS221/PA2/bin/Debug/net7.0/PA2.pdb
+/Users/cody/Desktop/MIS221/PA2/obj/Debug/net7.0/PA2.dll
+/Users/cody/Desktop/MIS221/PA2/obj/Debug/net7.0/refint/PA2.dll
+/Users/cody/Desktop/MIS221/PA2/obj/Debug/net7.0/PA2.pdb
+/Users/cody/Desktop/MIS221/PA2/obj/Debug/net7.0/PA2.genruntimeconfig.cache
+/Users/cody/Desktop/MIS221/PA2/obj/Debug/net7.0/ref/PA2.dll
